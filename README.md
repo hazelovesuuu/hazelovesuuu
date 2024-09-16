@@ -1,4 +1,4 @@
-## Hi,my name is Diego, but you can call me "Hazel" !!!! 👋
+## Hi, my name is Diego, but you can call me "Hazel" !!!! 👋
 
 <!--
 **hazelovesuuu/hazelovesuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
