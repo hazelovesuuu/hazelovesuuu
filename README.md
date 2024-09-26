@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... programing languages.
 - 🤔 I’m looking for help with ... my reposytor
 - 💬 Ask me about ... ask me anything, don´t be afraid !!!
-- 📫 How to reach me: ... by linkedln :) !!!
+- 📫 How to reach me: ... by linkedlN :) !!!
 - 😄 Pronouns: ... he/him !!!
 -->
