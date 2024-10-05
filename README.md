@@ -3,8 +3,6 @@
 <!--
 **hazelovesuuu/hazelovesuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hazelhackuuu.png" alt="TryHackMe">
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... repositories
